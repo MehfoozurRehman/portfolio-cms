@@ -112,4 +112,6 @@ exports
 build
 .strapi-updater.json
 .gitignore
-config.bat
+
+.env*
+!.env.example
